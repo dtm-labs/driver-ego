@@ -2,7 +2,7 @@ package driver_ego
 
 import (
 	"github.com/dtm-labs/dtmdriver"
-	_ "github.com/vicnoah/dtmdriver-ego"
+	_ "github.com/dtm-labs/dtmdriver-ego"
 )
 
 func init() {
