@@ -1,10 +1,10 @@
-module github.com/vicnoah/driver-ego
+module github.com/dtm-labs/driver-ego
 
 go 1.18
 
 require (
 	github.com/dtm-labs/dtmdriver v0.0.6
-	github.com/vicnoah/dtmdriver-ego v0.1.7
+	github.com/dtm-labs/dtmdriver-ego v0.1.8
 )
 
 require (
